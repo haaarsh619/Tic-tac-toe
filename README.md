@@ -1,4 +1,4 @@
-# tictactoe
+# tictactoe with Vue.js
 
 ## Project setup
 ```
